@@ -1,0 +1,419 @@
+# DIGITAL ROT — AESTHETIC ARCHIVE
+
+Назначение:
+Переработанный и заново структурированный список эстетик, визуальных
+направлений, тематик и цифровых/аналоговых мотивов для проекта DIGITAL ROT.
+
+Архив существует параллельно:
+
+CHARACTER ARCHIVE — КТО
+AESTHETIC ARCHIVE — КАКОЙ МИР / АТМОСФЕРА
+ART STYLE / RENDERING ARCHIVE — КАК НАРИСОВАНО
+LAYOUT / TEMPLATE ARCHIVE — КАК ОРГАНИЗОВАНО В КАДРЕ
+
+Элементы AESTHETIC ARCHIVE могут использоваться как самостоятельные
+эстетики или комбинироваться между собой.
+
+Статус: 2026-09-10
+Количество уникальных пунктов: 256
+
+# I. DIGITAL DISTORTION / GLITCH
+
+1. Glitchcore
+2. Glitch Art
+3. Pixel Corruption
+4. Datamosh
+5. Pixel Sorting
+6. RGB Split
+7. Channel Corruption
+8. Artifactcore
+9. Chromatic Aberration
+10. Digital Noise
+11. Digital Decay
+12. Data Rot
+13. Databending
+14. File Corruption
+15. Corrupted Media
+16. Memory Leak Aesthetic
+17. Compression Artifacts
+18. JPEG Glitch
+19. MPEG Glitch
+20. Video Corruption
+21. Frame Corruption
+22. Bitcrush
+23. Low-Bitrate Aesthetic
+24. Corrupted Text
+
+# II. SYSTEM FAILURE / SOFTWARE HORROR
+
+25. Errorcore
+26. Error Message Aesthetic
+27. Crashcore
+28. BSOD Aesthetic
+29. Broken UI
+30. Interface Horror
+31. Software Horror
+32. Malwarecore
+33. Computer Virus Aesthetic
+34. Corrupted Save File
+35. Haunted Software
+36. Ghost in the Machine
+37. Fake File / Corrupted File
+38. 404 Aesthetic
+39. Buffering Aesthetic
+40. Reality Failure
+41. Reality Corruption
+42. Simulation Horror
+
+# III. DIGITAL CULTURE / COMPUTER
+
+43. Cybercore
+44. Digicore
+45. Terminalcore
+46. Codecore
+47. ASCII Art
+48. Unicode Glitch
+49. Old Computer
+50. Windows XP Aesthetic
+51. Retro Computer
+52. Nostalgic Technology
+53. Screensaver Aesthetic
+54. Dial-Up Aesthetic
+
+# IV. OLD WEB / INTERNET MEMORY
+
+55. Y2K
+56. Old Web
+57. Webcore
+58. Dead Internet
+59. Lost Media
+60. Early Internet
+61. Internet Archive
+62. Web 1.0
+63. Web 2.0
+64. Net Art
+65. Forumcore
+66. Blogspot Aesthetic
+67. Geocities Aesthetic
+68. MySpace Aesthetic
+69. Flashcore
+70. Newgrounds Aesthetic
+71. Lost Website
+72. Abandoned Website
+73. Forbidden Website
+74. Unindexed Web
+75. Internet Mysticism
+76. Forbidden Media
+77. IRC Aesthetic
+78. Chatroom Aesthetic
+79. Deep Web Aesthetic
+80. Nostalgic Web
+
+# V. ANALOG HORROR / BROADCAST
+
+81. Analog Horror
+82. VHS Horror
+83. Found Footage
+84. Archival Horror
+85. Broadcast Horror
+86. Emergency Broadcast
+87. CCTV Horror
+88. Public Access Horror
+89. Liminal Horror
+90. Psychological Horror
+91. Static Horror
+92. Analog Decay
+93. Broadcast Interruption
+94. Corrupted Broadcast
+95. Existential Horror
+96. Cosmic Horror
+97. Eldritch Horror
+98. Surreal Horror
+99. Unresolved Horror
+100. Mystery Horror
+101. Dead Channel
+102. Test Pattern
+103. Ghost Signal
+104. Numbers Station Aesthetic
+105. Emergency Alert System
+106. Security Camera
+107. Surveillance Footage
+
+# VI. ARCHIVE / RECORDING / FOUND MEDIA
+
+108. Screen Recording
+109. Desktop Capture
+110. Game Capture
+111. Television Broadcast
+112. Home Video
+113. Archival Photograph
+114. Scanned Photograph
+115. Photocopy
+116. Fax Artifact
+117. VHS
+118. DVD
+119. MiniDV
+120. Cassette
+121. Floppy Disk
+122. CD-ROM
+123. Old Digital Camera
+124. Webcam
+125. Tape Hiss
+
+# VII. DREAM / LIMINAL / UNCANNY
+
+126. Dreamcore
+127. Weirdcore
+128. Liminal Space
+129. Traumacore
+130. Nostalgic Horror
+131. Backrooms
+132. Surrealism
+133. Uncanny Valley
+134. False Memory
+135. Uncannycore
+136. Reality Failure
+137. Reality Corruption
+138. Simulation Horror
+
+# VIII. DARK / GOTHIC
+
+139. Gothcore
+140. Gothic
+141. Gothic Horror
+142. Victorian Gothic
+143. Cathedral Gothic
+144. Dark Fantasy
+145. Dark Academia
+146. Occult
+147. Demoncore
+148. Vampire Gothic
+149. Deathrock
+150. Darkwave
+151. Romantic Gothic
+152. Medieval Gothic
+153. Industrial Gothic
+154. Techno-Goth
+155. Gothic Cyberpunk
+156. Occultcore
+157. Witchcore
+158. Witch Horror
+159. Necromancy Aesthetic
+160. Funeralcore
+161. Graveyardcore
+162. Cemetery Aesthetic
+163. Cathedral Horror
+164. Ecclesiastical Gothic
+165. Cathedralcore
+
+# IX. ANGELIC / DIVINE / RELIGIOUS HORROR
+
+166. Angelcore
+167. Fallen Angel
+168. Divinecore
+169. Heavenly
+170. Religious Horror
+171. Biblical Horror
+172. Seraphic
+173. Sacred Decay
+
+# X. DECAY / ROT / ORGANIC CORRUPTION
+
+174. Decaycore
+175. Rot
+176. Moldcore
+177. Rustcore
+178. Biopunk
+179. Organic Corruption
+180. Parasite Aesthetic
+181. Fossil / Petrification
+182. Deteriorated Statue
+183. Erosioncore
+184. Dustcore
+185. Ashcore
+186. Bonecore
+187. Fossilcore
+188. Ruincore
+189. Abandonedcore
+190. Weatheredcore
+191. Stainedcore
+192. Tarnishcore
+193. Oxidation
+194. Mildew Aesthetic
+195. Cracked Surface
+196. Peeling Paint
+197. Water Damage
+
+# XI. CUTE / KAWAII × HORROR
+
+198. Cutecore Horror
+199. Kawaii Horror
+200. Dollcore
+201. Doll Horror
+202. Broken Doll
+203. Toy Horror
+204. Cute Aggression
+205. Pastel Horror
+206. Mascot Horror
+207. Broken Kawaii
+208. Corrupted Kawaii
+209. Dark Kawaii
+210. Menhera
+211. Creepy Cute
+212. Cute Horror
+213. Glitch Kawaii
+214. Cyber Kawaii
+
+# XII. FASHION / SUBCULTURE
+
+215. Gothic Lolita
+216. Cyberpunk
+217. Techwear
+218. Harajuku
+219. Visual Kei
+220. E-girl
+221. E-boy
+222. Jirai Kei
+223. Yami Kawaii
+224. Punk
+
+# XIII. CYBER / FUTURE / RETRO FUTURISM
+
+225. Cyberpunk
+226. Retro Futurism
+227. Cassette Futurism
+228. Cyber Y2K
+229. Y2K Futurism
+230. 90s Digital
+231. 2000s Digital
+
+# XIV. SCREEN / DISPLAY / LOW-RESOLUTION
+
+232. Scanline Art
+233. CRT Aesthetic
+234. Screen Burn
+235. Dead Pixel
+236. PS1 Aesthetic
+237. PS2 Aesthetic
+238. Low-Poly Aesthetic
+239. Polygonal Horror
+240. Low-Resolution Horror
+241. Retro Game
+
+# XV. VAPORWAVE / MALL / RETRO DIGITAL
+
+242. Vaporwave
+243. Mallsoft
+244. Frutiger Aero
+245. Frutiger Metro
+
+# XVI. CONCEPTUAL / MEMETIC / INTERNET HORROR
+
+246. Creepypasta Aesthetic
+247. Deep Fried Meme Aesthetic
+248. Warcore
+249. Bloodcore
+250. Postsovietcore
+251. Chernobylcore
+252. Snowcore
+
+# XVII. CROSSOVER / HYBRID DIRECTIONS
+
+253. Gothic Cyberpunk
+254. Techno-Goth
+255. Cyber Kawaii
+256. Sacred Decay
+267. NOBLECORE
+268. MASKCORE
+269. PARASOCIAL AESTHETIC
+270. BURNOUT AESTHETIC
+
+# NOTES ON STRUCTURE
+
+AESTHETIC ARCHIVE intentionally contains several different kinds of
+creative material because DIGITAL ROT relies on combinations between
+theme, atmosphere, digital culture, horror language and material decay.
+
+However, some entries overlap conceptually with ART STYLE / RENDERING
+ARCHIVE or with a possible future MEDIA / SOURCE ARCHIVE.
+
+Such entries are retained for now rather than deleted.
+
+Examples:
+
+Glitch Art / Datamosh / Pixel Sorting
+→ can function as aesthetic direction or visual treatment.
+
+VHS / DVD / MiniDV / Webcam
+→ primarily media/source language, but remain useful as aesthetic
+references for DIGITAL ROT.
+
+PS1 / PS2 / Low-Poly
+→ can describe an era/world aesthetic while also interacting with
+rendering style.
+
+Photocopy / Fax / Scanline / CRT
+→ can function as material/media aesthetics as well as rendering
+treatments.
+
+These distinctions should be finalized only after ART STYLE and
+LAYOUT archives are complete.
+
+# CORE DIGITAL ROT AXES
+
+The archive can broadly be understood through several major axes:
+
+DIGITAL
+→ Glitch, data corruption, software failure, computer culture
+
+INTERNET
+→ Old Web, Y2K, lost websites, dead internet, online memory
+
+ANALOG
+→ VHS, broadcasts, surveillance, archival media, signal failure
+
+DREAM
+→ Dreamcore, liminal space, false memory, uncanny reality
+
+DARK
+→ Gothic, occult, dark fantasy, religious horror
+
+DECAY
+→ Rot, mold, rust, organic corruption, ruins
+
+CUTE × DARK
+→ Kawaii, dolls, toys, mascots, corrupted childhood imagery
+
+RETRO
+→ Y2K, PS1/PS2, retro computers, vaporwave, cassette futurism
+
+CULTURE / PLACE
+→ Postsovietcore, Chernobylcore, Warcore, Creepypasta, internet
+meme culture
+
+The purpose of these axes is not to restrict combinations, but to make
+the archive easier to navigate and combine later.
+
+# COMBINATION EXAMPLES
+
+CHARACTER × Dreamcore × Soft Anime
+CHARACTER × Dead Internet × Broken CGI
+CHARACTER × Lost Media × VHS Horror
+CHARACTER × Angelcore × Gothic
+CHARACTER × Sacred Decay × Cathedral Gothic
+CHARACTER × Old Web × Photocopy
+CHARACTER × PS1 Aesthetic × Polygonal Horror
+CHARACTER × Postsovietcore × Analog Horror
+CHARACTER × Chernobylcore × Archival Horror
+CHARACTER × Cute Horror × Broken Doll
+CHARACTER × Y2K × Cyber Kawaii
+CHARACTER × Deep Fried Meme × Glitchcore
+
+Final combinations will additionally use:
+
+CHARACTER
+× AESTHETIC
+× ART STYLE
+× LAYOUT
+× optional MEDIA / SOURCE treatment
+===================================

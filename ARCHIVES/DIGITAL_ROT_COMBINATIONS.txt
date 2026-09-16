@@ -1,0 +1,111 @@
+DIGITAL ROT — COMBINATIONS
+===========================
+
+Назначение:
+Финальные комбинации персонажей, эстетик и дополнительных визуальных элементов, собранные из CHARACTER ARCHIVE и AESTHETIC ARCHIVE с возможным использованием ART STYLE ARCHIVE и LAYOUT / TEMPLATE ARCHIVE. Каждая строка — одна потенциальная концепция для кавера, арта или другого визуального произведения. Количество используемых эстетик и дополнительных элементов не ограничивается и определяется художественной целесообразностью комбинации.
+
+Правило: При создании комбинаций ассистент может самостоятельно предложить Art Style или Layout/Template, если видит, что они художественно усиливают концепцию. Их наличие в архиве не означает обязательного использования.
+
+Правило: Каждая комбинация должна иметь чёткую художественную цель. Эстетики и элементы не добавляются только ради количества; каждый выбранный компонент должен что-то давать общей концепции.
+
+Правило: При создании комбинаций ассистент должен учитывать взаимодействие выбранных элементов между собой, а не рассматривать их изолированно. Если два элемента усиливают друг друга — их сочетание приветствуется; если они конфликтуют без художественной причины — сочетание следует пересмотреть.
+
+Правило: Каждая комбинация должна иметь одну доминирующую концепцию или настроение, которое объединяет остальные элементы. Дополнительные элементы должны поддерживать её, а не перетягивать внимание на себя без художественной причины.
+
+Правило: Количество используемых элементов в комбинации не ограничивается. Можно использовать любое количество персонажей, эстетик, Art Style, Layout/Template и других элементов архива, если их сочетание художественно оправдано.
+
+Правило: Каждая созданная комбинация должна быть подкреплена объяснением, почему выбранные персонаж, эстетики и дополнительные элементы подходят друг другу, какую роль выполняет каждый ключевой компонент и как они взаимодействуют между собой для создания единой концепции. 
+
+Правило: Если предложенная комбинация выглядит художественно слабой, перегруженной или противоречивой, ассистент должен прямо указать на проблему и предложить более сильный вариант, а не пытаться искусственно оправдать комбинацию.
+
+Правило: Если комбинация создаётся вокруг конкретного персонажа, его ключевые визуальные и концептуальные особенности должны сохраняться. Эстетики, Art Style и Layout/Template адаптируются под персонажа, если иное не предусмотрено концепцией.
+
+Правило: Нежелательно многократное использование одних и тех же персонажей, эстетик, Art Style и Layout/Template в последовательных или близких по содержанию комбинациях. При создании новых комбинаций следует по возможности использовать разные элементы архива, чтобы расширять разнообразие проекта и не допускать повторения одних и тех же визуальных решений. Повторное использование допускается, если конкретный персонаж, эстетика, Art Style или Layout/Template особенно хорошо подходит к новой концепции и его замена сделает комбинацию слабее. В таком случае повтор должен быть художественно оправдан.
+
+Правило: Каждое финальное произведение DIGITAL ROT должно содержать вотермарку DIGITAL ROT. Вотермарка обязательна, но её визуальная форма, расположение, размер, прозрачность и способ интеграции должны адаптироваться под концепцию и стиль конкретного произведения. Она не должна выбиваться из композиции, конфликтовать с выбранными эстетиками, стилем рисовки или шаблоном и не должна восприниматься как чужеродный элемент, наложенный поверх изображения. Вотермарка должна быть частью произведения, а не просто надписью поверх него.
+
+1. UNKNOWN GIRL #10 — PLATINUM KAKUGAN + DREAMCORE + LIMINAL SPACE + DEAD INTERNET + MONO-BLOOM + FRAGMENTED COLLAGE сделано
+2. LAIN IWAKURA + DEAD INTERNET + OLD WEB + LOST MEDIA + RAW LINE DOUJIN + №6 CORRUPTED ARCHIVE сделано
+3. LAIN IWAKURA + DEAD INTERNET + OLD WEB + GHOST IN THE MACHINE + №7 RETRO PERSONAL HOMEPAGE сделано
+4. BB (Fate) + SOFTWARE HORROR + BROKEN UI + GLITCH KAWAII + PIXEL MOSAIC RENDER (#23) + №6 CORRUPTED ARCHIVE сделано
+5. MISA AMANE + BROKEN KAWAII + CUTECОRE HORROR + DEAD PIXEL сделано
+6. KURUMI TOKISAKI + NUMBERS STATION AESTHETIC + DEAD CHANNEL + OCCULTCORE сделано
+7. DUO 01 — СВЕТЛАЯ × ТЁМНАЯ + POSTSOVIETCORE + ANALOG DECAY + FALSE MEMORY + №56 DUO URBAN PORTRAIT сделано 
+8. DUO 01 — BLOODCORE × SNOWCORE × VHS сделано
+9. DUO 01 — СВЕТЛАЯ × ТЁМНАЯ — BLOODCORE × SNOWCORE × VHS × GHOST SIGNAL — МАНГА Ч/Б SCREENTONE × MONO-BLOOM — БЕЗ ШАБЛОНА сделано MASTERPIECE 
+10. DUO 01 — BLOODCORE × ANGELCORE × WARCORE — ЖЁСТКИЙ АМЕРИКАНСКИЙ КОМИКС-РЕНДЕР — TEMPLATE №2 SILHOUETTE COLLAGE сделано MASTERPIECE
+11. DUO 02 — ВЕРХНЯЯ × НИЖНЯЯ — BLOODCORE × ANGELCORE × WARCORE — ЖЁСТКИЙ АМЕРИКАНСКИЙ КОМИКС-РЕНДЕР — TEMPLATE №2 SILHOUETTE COLLAGE сделано  MASTERPIECE
+12. DUO 02 — ВЕРХНЯЯ × НИЖНЯЯ — BLOODCORE × ANGELCORE × WARCORE — ЖЁСТКИЙ АМЕРИКАНСКИЙ КОМИКС-РЕНДЕР — TEMPLATE №4 FRAGMENTED COLLAGE сделано
+13. DUO 02 — ВЕРХНЯЯ × НИЖНЯЯ — BLOODCORE × ANGELCORE × WARCORE — ЖЁСТКИЙ АМЕРИКАНСКИЙ КОМИКС-РЕНДЕР — TEMPLATE №11 CHARACTER DOSSIER сделано masterpiece
+14. DUO 01 × DUO 02 — OLDCORE × NATURE × Y2K × FALLEN ANGEL × CATHEDRAL GOTHIC — LIGNE CLAIRE — БЕЗ ШАБЛОНА сделано MASTERPIECE сделано masterpiece
+15. RIZE × KANEKI × ARIMA × JUZO SUZUYA — BLOODCORE × SNOWCORE × WARCORE — PBR REALISM WITH NOISE/ARTIFACTS — TEMPLATE №48 SPLIT WORLD DUO POSTER сделано masterpiece 
+16. SERAPHINE ÆSCHYLUS — ANGELCORE × INTERFACE HORROR — MONO-BLOOM — TEMPLATE №3 BROKEN SIGNAL DISPLAY сделано masterpiece
+17. DUO 01 LIGHT × DARK — DREAMCORE × MEMORY DISTORTION — SOFT EARLY-2000s ANIME — TEMPLATE №2 SILHOUETTE COLLAGE сделано masterpiece
+18. DUO 02 UPPER × LOWER — LIMINAL SPACE × SURVEILLANCE AESTHETIC — SOFT CONTROLLED ANIME — TEMPLATE №4 FRAGMENTED COLLAGE сделано masterpiece 
+19. KISHOU ARIMA — SURVEILLANCE AESTHETIC × IDENTITY DISTORTION — CLEAN SHARP ANIME — TEMPLATE №3 BROKEN SIGNAL DISPLAY сделано masterpiece
+20. MAKIMA — CONTROL AESTHETIC × CAUSALITY BREAKDOWN — SOFT CONTROLLED ANIME — TEMPLATE №5 VHS DESKTOP DIARY сделано masterpiece 
+21. MARIN KITAGAWA — SLICE OF LIFE AESTHETIC × SYSTEM CLASSIFICATION — SOFT EARLY-2000s ANIME — TEMPLATE №6 ICONOGRAPHIC KEY TABLE сделал masterpiece
+22. 2B — SPATIAL PARADOX × SIMULATION INCONSISTENCY — PIXEL MOSAIC RENDER — TEMPLATE №1 FULL REFERENCE SHEET. сделал 
+23. LAIN IWAKURA — OLD WEB × DATA ROT — PHOTOCOPY / XEROX ART — TEMPLATE №6 CORRUPTED ARCHIVE сделал 
+24. REI AYANAMI — IDENTITY LOOP × SURVEILLANCE SYSTEM — CLEAN CLINICAL ANIME — TEMPLATE №12 MULTI-PANEL VERIFICATION GRID сделал 
+25. MARIN KITAGAWA — IDOLCORE × SURVEILLANCE TRACKING — POLISHED ANIME WITH MEDIA LIGHTING — TEMPLATE №1 SINGLE SUBJECT DOSSIER сделал
+26. REZE — CINEMACORE × SPATIAL BREAK — SOFT CINEMATIC ANIME — TEMPLATE №3 MULTI-FRAME FILM STRIP сделано
+27. AI HOSHINO — IDOLCORE × PSYCHOLOGICAL MASKING — SOFT IDOL ANIME × HYPER-CLEAN RENDERING — TEMPLATE №7 EXPRESSION GRID сделано 
+28. LAIN IWAKURA + GHOST SIGNAL + NUMBERS STATION AESTHETIC
+29. FRIEREN + DREAMCORE + FALSE MEMORY
+30. TOUKA KIRISHIMA + POSTSOVIETCORE + RUINCORE
+31. ZERO TWO + CYBER Y2K + SIMULATION HORROR
+32. C.C. + OLD WEB + LOST WEBSITE
+33. YUNO GASAI + CCTV HORROR + PARASOCIAL AESTHETIC
+34. JANE DOE (Angels of Death) + DEAD CHANNEL + STATIC HORROR
+35. MILK-CHAN / "ДЕВОЧКА" + WEIRDCORE + BACKROOMS
+36. ELIZABETH BATHORY (Lancer) + GOTHIC HORROR + BLOODCORE
+37. AKENO HIMEJIMA + OCCULTCORE + WITCHCORE
+38. ESDEATH + WARCORE + SNOWCORE
+39. LUCY (Cyberpunk: Edgerunners) + CYBERPUNK + GLITCHCORE
+40. USADA PEKORA + PARASOCIAL AESTHETIC + WEBCORE
+41. UNKNOWN GIRL #7 — FROST CROWN QUEEN + SNOWCORE + CHERNOBYLCORE
+42. UNKNOWN GIRL #17 — BATWING MAID + GOTHIC LOLITA + VAMPIRE GOTHIC
+43. RIAS GREMORY + FALLEN ANGEL + SACRED DECAY
+44. KRUL TEPES + VAMPIRE GOTHIC + BONECORE
+45. ALYA (Alisa Mikhailovna) + Y2K + BLOGSPOT AESTHETIC
+46. SHALLTEAR BLOODFALLEN + DEMONCORE + CATHEDRAL HORROR
+47. SHYLILY + CYBER KAWAII + GLITCH KAWAII
+48. UNKNOWN GIRL #22 — VIOLET THRONE QUEEN + OCCULT + DARKWAVE
+49. GUTS + WARCORE + RUSTCORE
+50. MELTRYLLIS + BIOPUNK + PARASITE AESTHETIC
+51. ETO YOSHIMURA + ECCLESIASTICAL GOTHIC + ROT
+52. ALBEDO (Overlord) + DIVINECORE + UNCANNY VALLEY
+53. POWER (Chainsaw Man) + BLOODCORE + CUTE AGGRESSION
+54. REM (Re:Zero) + TRAUMACORE + PARASOCIAL AESTHETIC
+55. CARMILLA (Fate) + VAMPIRE GOTHIC + OCCULT
+56. PHILIA ADENAUER + DIVINECORE + RELIGIOUS HORROR
+57. GRIFFITH + ANGELCORE + FALLEN ANGEL
+58. RACHEL GARDNER (Angels of Death) + ANGELCORE + CEMETERY AESTHETIC
+59. FLARE (Redo of Healer) + WARCORE + BLOODCORE
+60. DILUC (Алая ночь, Genshin) + VAMPIRE GOTHIC + DARKWAVE
+61. ELLEN JOE (ZZZ) + CYBER Y2K + RETRO FUTURISM
+62. ZHU YUAN (ZZZ) + INTERFACE HORROR + BROKEN UI
+63. NYATASHA NYANNERS + CUTE AGGRESSION + MENHERA
+64. UNKNOWN GIRL #5 — STITCHED PLATINUM DEMON + OCCULTCORE + DECAYCORE
+65. UNKNOWN GIRL #19 — WHITE HALO GOTHIC + DIVINECORE + CATHEDRAL GOTHIC
+66. UNKNOWN GIRL #27 — BLACKWING FALLEN ANGEL + FALLEN ANGEL + WARCORE
+67. UNKNOWN GIRL #9 — CORAL GOTHIC MAID + GOTHIC LOLITA + FUNERALCORE
+68. UNKNOWN GIRL #28 — CYBER GOTHIC NURSE + SOFTWARE HORROR + TECHNO-GOTH
+69. REI AYANAMI + BROADCAST HORROR + IDENTITY LOOP
+70. SETSUNA (Redo of Healer) + TRAUMACORE + FALSE MEMORY
+71. KURENAI (UNKNOWN GIRL #91, THE RADIANT ARBITER) + DIVINECORE + SACRED DECAY
+72. VALLA NOCTIS (UNKNOWN GIRL #84) + GOTHIC HORROR + NECROMANCY AESTHETIC
+73. YUUKI SORIMACHI + WARCORE + PARASITE AESTHETIC
+74. UNKNOWN 96 LERA × Dreamcore × False Memory
+75. UNKNOWN 96 LERA × Dead Internet × Lost Website
+76. UNKNOWN 96 LERA × CCTV × Surveillance Horror
+77. UNKNOWN 96 LERA × Glitchcore × RGB Split
+78. UNKNOWN 96 LERA × Analog Horror × VHS
+79. UNKNOWN 96 LERA × Postsovietcore × Rooftop Isolation
+80. UNKNOWN 96 LERA × Angelcore × False Innocence
+81. UNKNOWN 96 LERA × Corrupted File × UI Horror
+82. UNKNOWN 96 LERA × Liminal Space × Mirror Loop
+83. UNKNOWN 96 LERA × Memory Leak × Duplicate Self
+84. UNKNOWN 96 LERA × Mirror Loop × Interface Horror × Camera Recursion × Reality Corruption сделано
+85. UNKNOWN 96 LERA × Angelcore × Warcore × Residual Bloodcore
